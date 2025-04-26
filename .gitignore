@@ -1,0 +1,32 @@
+# Binary and data files
+tigerbeetle
+*.tigerbeetle
+*.zip
+.data/
+*.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# TypeScript
+*.tsbuildinfo
+dist/
+*.js
+*.js.map
+
+# Environment variables
+.env
+.env.local
+
+# Environment and configuration
+config/secrets.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Development environment
+.vscode/
+.idea/
