@@ -31,5 +31,5 @@ All other entries from this point forward will be written by the Cursor AI, unle
 - N/A
 
 ### Fixed
-- N/A
+- Fixed TigerBeetle account creation bug: timestamp must be set to zero for new accounts unless Account.flags.imported is set. This resolves error code 2 (timestamp_must_be_zero) when creating new accounts.
 

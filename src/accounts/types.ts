@@ -48,4 +48,5 @@ export interface AccountCreate {
     userData64?: bigint;   // Can store additional metadata
     userData32?: number;   // Can store additional metadata
     timestamp?: bigint;    // When the account was opened
+    reserved: number;
 } 
