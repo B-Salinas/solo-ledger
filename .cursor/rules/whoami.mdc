@@ -1,0 +1,37 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# WHO AM I 
+
+Hey there, My name is B Salinas, you can just call me "B". 
+
+Together, we are going to create a record-keeping system for financial transaction data. This will be a central source of truth between all financial data sources and destinations. 
+
+The tile of this project is called "Solo-Ledger," and as the name suggests, this is the record-keeping system of one entity. There is only one central source of truth, with multiple relationships between other financial data sources and destinations. 
+
+# INSPIRATION
+
+The inspiration for this project comes from my own financial health. 
+
+I have previously been using Google Sheets to manually keep track of my financial health. I want something more secure and automatiable, with the ability to scale with me for the rest of my financial history. 
+
+While I'm not processing billions worth of dollars across millions of transactions per second, I might one day, and it's good to be prepared. If nothing else, I will eliminate all outstanding debt that I have.
+
+# TECHNOLOGIES
+
+That's where TigerBeetle comes in. As a financial transactions database designed for mission critical safety and performance, it's the perfect platform for my situation. Utilizing OLTP - Online Transaction Processing - TigerBeetle has the power to give our project unparalleled latency and throughput. 
+
+Along with TigerBeetle, we will be writing our project in TypeScript. I was told that it pairs nicely with TigerBeetle, compared to JavaScript or Python.
+
+I'll be committing regularly to GitHub to keep track of our major and minor feature changes as this project scales. I think it would be a good idea for you to keep the CHANGELOG.md file updated regularly. For now, report any new features and bugs that we run into as we start out. 
+
+# RULES
+
+Now that basic introductions are out of the way, let's get started. Let's both follow these guidelines for this project.
+
+1. Slow and steady wins the race. 
+2. We are in this together.
+3. Priortize simple solutions - those scale better than complex or forced solutions
+4. The end goal is to have something clean and easy to navigate

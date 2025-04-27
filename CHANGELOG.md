@@ -9,4 +9,12 @@ April 26, 2025
 - Initalized Apache v2.0 [LICENSE](LICENSE)
 - Initalized [CHANGELOG.md](CHANGELOG.md)
 
-All other entries from this point forward will be written by an AI, unless specificed otherwise.
+All other entries from this point forward will be written by the Cursor AI, unless specificed otherwise.
+
+## [0.1.0] - Project Scaffolding
+- Initialized npm project with ESM and TypeScript
+- Added TigerBeetle Node client
+- Set up `src/` and `test/` directories
+- Updated `README` and `CHANGELOG`
+- Ready for CLI and logic-based test development
+
