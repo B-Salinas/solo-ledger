@@ -18,3 +18,18 @@ All other entries from this point forward will be written by the Cursor AI, unle
 - Updated `README` and `CHANGELOG`
 - Ready for CLI and logic-based test development
 
+## [Unreleased]
+
+### Added
+- Basic account type system with proper ranges for assets and liabilities
+- Double-entry balance calculation following TigerBeetle conventions
+- Transfer type codes for different transaction categories
+- Utility functions for account creation and balance calculation
+- Initial setup for BOFA liability account tracking
+
+### Changed
+- N/A
+
+### Fixed
+- N/A
+
